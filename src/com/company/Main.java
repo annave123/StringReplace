@@ -9,7 +9,7 @@ public class Main {
         String ab = "New example of String Replace";
 
         System.out.println(ab.replace('R','O'));
-        System.out.println(ab.replace('N','X'));
+        System.out.println(ab.replace('N','1'));
     }
 }
 
